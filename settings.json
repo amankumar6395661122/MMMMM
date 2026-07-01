@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "RankSMP-KE58.aternos.me",
-    "port": 31489,
+    "ip": "BlackSMP-CxKM.aternos.me",
+    "port":18624 ,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -33,7 +33,7 @@
       "messages": [
         "I'm a regular player",
         "Subscribe to STORMxYUVRAJ999",
-        "Server main OWNER ia AMANGAMER2125"
+        "Server main OWNER is AMANGAMER2125"
       ]
     },
     "chat-log": true,
